@@ -1,6 +1,6 @@
 {
   "name": "movies",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "authors": [
     "chenglong01020@gmail.com <chenglong01020@gmail.com>"
   ],
@@ -18,5 +18,6 @@
   "dependencies": {
     "bootstrap": "~3.3.5",
     "requirejs": "~2.1.18"
-  }
+  },
+  "homepage": "https://github.com/xiaoDC/movie"
 }

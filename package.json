@@ -8,8 +8,6 @@
   "author": "chenglong",
   "license": "ISC",
   "devDependencies": {
-    "body-parser": "^1.13.1",
-    "express": "^4.12.4",
     "gulp": "^3.9.0",
     "gulp-coffee": "^2.3.1",
     "gulp-copy": "0.0.2",
@@ -25,7 +23,9 @@
   },
   "dependencies": {
     "body-parser": "^1.13.1",
+    "connect-mongo": "^0.8.1",
     "express": "^4.12.4",
+    "express-session": "^1.11.3",
     "gulp": "^3.9.0",
     "gulp-coffee": "^2.3.1",
     "gulp-copy": "^0.0.2",
@@ -35,6 +35,7 @@
     "jade": "^1.11.0",
     "moment": "^2.10.3",
     "mongoose": "^4.0.5",
+    "morgan": "^1.6.0",
     "multer": "^0.1.8",
     "requirejs": "^2.1.18",
     "underscore": "^1.8.3"

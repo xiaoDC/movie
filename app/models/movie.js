@@ -1,5 +1,3 @@
-
-/*  movie.coffee */
 var Movie, MovieSchema, mongoose;
 
 mongoose = require('mongoose');

@@ -1,4 +1,4 @@
-###  movie.coffee ###
+#  movie.coffee
 mongoose = require 'mongoose'
 MovieSchema = require '../schemas/movie'
 
